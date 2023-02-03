@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>sf-ui-display-semibold.ttf</string>
+		<string>SF UI Display.ttf</string>
+		<string>sf-ui-display-light.ttf</string>
+	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>del?</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Запрос</string>
+	<key>NSCameraUsageDescription</key>
+	<string>camera</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>del?</string>
+</dict>
+</plist>
